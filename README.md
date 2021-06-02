@@ -22,7 +22,7 @@ This bot is offline.
 3. Create a telegram API token with bot father. Following the [link](https://medium.com/shibinco/create-a-telegram-bot-using-botfather-and-get-the-api-token-900ba00e0f39) to generate your own token.
 4. Add token to the *botteleg.py* file.
 
-     `bot = telebot.TeleBot('TELEGRAM TOKEN')`
+     `public static string token = "TELEGRAM TOKEN"`;
 5. Run python botteleg.py
 
 ## Bot commands
